@@ -1,4 +1,3 @@
-
 {
   "name": "artebotcop",
   "version": "1.0.0",
@@ -15,3 +14,4 @@
     "nodemon": "^1.18.3",
     "steam-api": "^1.1.3"
   }
+}
